@@ -1,2 +1,19 @@
-# typescript-template
-typescript environment template.
+# Title
+
+language: [🇯🇵](documents/READMEjp.md) | 🇺🇸
+
+[Explanation]
+
+## Usage
+
+[]
+
+## Build
+
+```bash
+yarn run build
+```
+
+## License
+
+[MIT](LICENSE)
